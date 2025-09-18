@@ -7,3 +7,7 @@ body{
     font-size: 19px;
     color: greenyellow;
 }
+
+h1{
+    font-weight: bold;
+}
