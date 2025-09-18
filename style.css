@@ -26,3 +26,8 @@ justify-content: center;
 width: 500px; height:auto;
 margin-left: 30%; margin-right: 30%;
 }
+
+.main_body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: crimson;
+}
