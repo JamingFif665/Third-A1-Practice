@@ -14,7 +14,7 @@ h1{
     color: black;
 }
 
-nav{
-    font-style: italic;
-    color: hotpink;
+footer {
+    text-align: center;
+    background-color: hotpink;
 }
