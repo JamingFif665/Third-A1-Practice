@@ -22,6 +22,13 @@ footer {
     margin-top: 40%;
 }
 
+.firstfooter{
+    text-align: center;
+    background-color: yellow;
+    position: relative; bottom: 0px;
+      margin-top:auto;
+}
+
 #img2{
 justify-content: center;
 width: 500px; height:auto;
