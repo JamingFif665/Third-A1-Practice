@@ -17,8 +17,11 @@ h1{
 footer {
     text-align: center;
     background-color: hotpink;
+    position: relative; bottom:0px;
 }
 
 #img2{
 justify-content: center;
+width: 500px; height:auto;
+margin-left: 30%; margin-right: 30%;
 }
